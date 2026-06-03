@@ -38,7 +38,7 @@ function VistaPreviaSection() {
         <FadeIn delay={200} y={12}>
           <p className="vp-proof">
             <span className="vp-proof__label">Después del test, alguien nos dijo:</span>{' '}
-            <em className="vp-proof__quote">"Por fin no me recomendó lo obvio."</em>
+            <em className="vp-proof__quote">"Me recomendó carreras que ni se me habían cruzado, y tenían todo el sentido."</em>
           </p>
         </FadeIn>
       </div>
@@ -74,8 +74,8 @@ const FAQ_ITEMS = [
     a: 'Sí. También está pensado para quienes ya empezaron y sienten que algo no termina de cerrar.',
   },
   {
-    q: '¿Vocaria me dice exactamente qué estudiar?',
-    a: 'No. Y eso es parte de hacerlo bien. Vocaria no decide por vos: te muestra patrones, carreras con afinidad y caminos posibles.',
+    q: '¿Vocaria me recomienda carreras concretas?',
+    a: 'Sí. Al terminar el test ves carreras con afinidad real a cómo pensás, dónde estudiarlas y por qué encajan con vos. No es una lista al azar: es un punto de partida con fundamento para que decidas con más claridad.',
   },
 ];
 
