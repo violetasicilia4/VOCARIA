@@ -1883,8 +1883,7 @@ button { font-family: inherit; }
 .footer {
   background: var(--dark);
   color: white;
-  padding: 40px var(--pad-x) 56px;
-  border-top: 1px solid rgba(255,255,255,0.06);
+  padding: 8px var(--pad-x) 56px;
 }
 .footer__inner {
   max-width: 1240px;
